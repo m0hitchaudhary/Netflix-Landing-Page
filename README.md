@@ -1,4 +1,4 @@
-# Netflix Clone UI
+# Netflix-Landing-Page
 
 Welcome to the Netflix Clone UI repository! This project is a front-end only clone of the Netflix user interface, created using HTML and CSS. It aims to replicate the look and feel of the popular streaming service without any backend functionality.
 
@@ -9,11 +9,11 @@ Welcome to the Netflix Clone UI repository! This project is a front-end only clo
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/m0hitchaudhary/NetflixClone.git
+    git clone https://github.com/m0hitchaudhary/Netflix-Landing-Page.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd NetflixClone
+    cd Netflix-Landing-Page
     ```
 
 ## Usage
